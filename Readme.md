@@ -44,3 +44,4 @@ Contributions are welcome! If you find any issues or would like to add new featu
 - This project was inspired by the MERN stack and its vibrant community.
 - The project structure and README template were adapted from best practices and common conventions.
 # WorkOut-Buddy_MERN
+# WorkOut-Buddy_MERN
